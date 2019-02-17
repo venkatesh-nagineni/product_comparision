@@ -1,0 +1,14 @@
+clone repository with => git clone https://github.com/venkatesh-nagineni/product_comparision
+
+there is two folders client and server
+
+open terminal run commands in client folder => npm i, ng serve
+
+open another terminal run => npm i, npm start
+
+this will run both client and server
+
+open http://localhost:4200
+
+
+
